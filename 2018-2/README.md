@@ -10,8 +10,10 @@
 
 1.메인화면 & 계산기 메뉴화면
 
+
+<img src = "https://user-images.githubusercontent.com/45443021/210578830-9334971d-db86-4f66-993d-435b21844a6a.jpg" width = "300px" height = "600px"></img></br>
+
 *메인화면
-<img src = "https://user-images.githubusercontent.com/45443021/210578830-9334971d-db86-4f66-993d-435b21844a6a.jpg" width = "300px" height = "600px"></img><\br>
 
 
 -------------
