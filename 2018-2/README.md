@@ -14,6 +14,11 @@
 
 <img src = "https://user-images.githubusercontent.com/45443021/210578830-9334971d-db86-4f66-993d-435b21844a6a.jpg" width = "300px" height = "600px"></img></br>
 
+*계산기 메뉴화면
+
+<img src = "https://user-images.githubusercontent.com/45443021/210580211-74a6033c-db5a-4b46-ac01-e19462cefaec.jpg" width = "300px" height = "600px"></img>
+
+<img src = "https://user-images.githubusercontent.com/45443021/210580219-85248d71-025d-463f-80c1-5786af4f207f.jpg" width = "300px" height = "600px"></img>
 
 
 
